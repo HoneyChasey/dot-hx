@@ -6,5 +6,5 @@ dotfiles for helix
 ## Stow (recommemded)
 
 ```bash
-  
+stow --target=$HOME --ignore='.github' helix-config
 ```
